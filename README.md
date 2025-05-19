@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on **[Your Project or Job]**
 - 🌱 I’m learning **[Technologies or Skills you’re focusing on]**
 - 👯 I’m open to collaborate on interesting projects
-- 💬 Ask me about **JavaScript, React, Node.js** (예시)
+- 💬 Ask me about **JavaScript, React, Node.js**
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 - ⚡ Fun fact: I love coding and coffee ☕
 
