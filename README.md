@@ -10,7 +10,7 @@ GitHub에 방문해 주셔서 감사합니다.
 - 🌱 요즘은 **React, Node.js, TypeScript** 를 배우고 있어요.
 - 👯 같이 협업하거나 이야기 나누는 걸 좋아합니다.
 - 💬 궁금한 점 있으면 언제든 편하게 DM 주세요!
-- 📫 연락처: [jonagyeong03@gmail.com](mailto:**your.email@example.com**)
+- 📫 연락처: [jonagyeong03@gmail.com](mailto:**jonagyeong03@gmail.com**)
 
 ---
 
@@ -40,6 +40,6 @@ GitHub에 방문해 주셔서 감사합니다.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/your-linkedin)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/your-twitter)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jonagyeong03@gmail.com)
 
 ---
