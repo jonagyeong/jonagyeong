@@ -37,7 +37,3 @@ GitHub에 방문해 주셔서 감사합니다.
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your.email@example.com)
 
 ---
-
-> “코딩은 나만의 언어, 세상을 바꾸는 작은 도구입니다.”  
-> — [Your Name]
-
