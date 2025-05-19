@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonagyeong&show_icons=true&theme=radical)
 
 ---
 
