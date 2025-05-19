@@ -34,6 +34,9 @@ GitHub에 방문해 주셔서 감사합니다.
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonagyeong&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonagyeong&layout=compact)
+
+
 ---
 
 ## 📫 소통해요!
